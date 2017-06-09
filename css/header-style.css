@@ -156,3 +156,9 @@ li {
 .header ul .phone-400 span {
 	color: red;
 }
+.aside {
+				position: absolute;
+				left: 10px;
+				z-index: 999;
+				top: 0px;
+			}
