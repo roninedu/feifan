@@ -869,3 +869,19 @@
 	text-align: center;
 	cursor: pointer;
 }
+#contain-left {
+    float: left;
+    width: 218px;
+    border: 1px solid #eaeaea;
+    margin-right: 30px;
+}
+#contain-title sub{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.contain-line {
+    border-bottom: 1px solid #eaeaea;
+}
+
+
