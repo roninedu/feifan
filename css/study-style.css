@@ -1,0 +1,73 @@
+.content .right ul{
+	padding: 0px 24px;
+}
+.content .right ul li{
+	height: 164px;
+	border-bottom: 1px #EAEAEA solid;
+}
+.content .right ul li .box-left{
+	width: 710px;
+	color: #979797;
+	display: inline-block;
+}
+.content .right ul li .box-left h1 a{
+	font-weight: normal;
+	font-size: 16px;
+	color: #555;
+	line-height: 50px;
+}
+.content .right ul li .box-left h1:hover a{
+	color:#dd2727 ;
+}
+.content .right ul li .box-left p{
+	cursor: pointer;
+	font-size: 12px;
+	line-height: 22px;
+}
+.content .right ul li .box-left>span{
+	cursor: pointer;
+	font-size: 12px;
+	margin-right: 28px;
+	line-height: 40px;
+}
+.content .right ul li:last-child{
+	border: 0px;
+	text-align: center;
+	padding: 40px 0px 0px;
+	height: 80px;
+}
+.content .right ul li:last-child span{
+	cursor: pointer;
+	font-size: 12px;
+	line-height: 38px;
+	padding: 0px 30px;
+	border-radius: 3px;
+	border: 1px #999999 solid;
+	display: inline-block;
+	margin: 0px 5px;
+	color: #666666;
+}
+.content .right ul li:last-child span a{
+	color: #666666;
+	
+}
+.content .right ul li:last-child span.active{
+	background-color: #dd2726;
+}
+.content .right ul li:last-child span.active a{
+	color: #FFFFFF;
+}
+.content .right ul li:last-child span.noneactive{
+	background-color: #e3e3e3;
+	color: #222;
+}
+.content .right ul li .box-right{
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.content .right ul li .box-right img{
+	width: 115px;
+	height: 115px;
+	border-radius: 50%;
+}
